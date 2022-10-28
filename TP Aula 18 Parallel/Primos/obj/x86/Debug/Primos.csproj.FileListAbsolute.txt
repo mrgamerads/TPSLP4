@@ -1,0 +1,59 @@
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Primos\bin\Debug\Primos.exe
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Primos\bin\Debug\Primos.pdb
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Primos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Primos\obj\x86\Debug\Primos.exe
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana04\Primos\Primos\obj\x86\Debug\Primos.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana04\Primos\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana06\Threads\Primos sem Thread\Primos\obj\x86\Debug\Primos.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana06\Threads\Primos sem Thread\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana06\Threads\Primos sem Thread\Primos\bin\Debug\Primos.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana06\Threads\Primos sem Thread\Primos\bin\Debug\Primos.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana06\Threads\Primos com 1 Thread\Primos\obj\x86\Debug\Primos.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana06\Threads\Primos com 1 Thread\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana06\Threads\Primos com 1 Thread\Primos\bin\Debug\Primos.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana06\Threads\Primos com 1 Thread\Primos\bin\Debug\Primos.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 1 Thread\Primos\bin\Debug\Primos.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 1 Thread\Primos\bin\Debug\Primos.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 1 Thread\Primos\obj\x86\Debug\Primos.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 1 Thread\Primos\obj\x86\Debug\Primos.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 1 Thread\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 2 Thread\Primos\bin\Debug\Primos.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 2 Thread\Primos\bin\Debug\Primos.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula09\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula12\TPAula11\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula12\TPAula11\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula12\TPAula11\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula12\TPAula11\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula12\TPAula11\Primos com 2 Thread\Primos\bin\Debug\Primos.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula12\TPAula11\Primos com 2 Thread\Primos\bin\Debug\Primos.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula07\Exercicios\Primos com 2 Thread\Primos\bin\Debug\Primos.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula07\Exercicios\Primos com 2 Thread\Primos\bin\Debug\Primos.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula07\Exercicios\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula07\Exercicios\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula07\Exercicios\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula07\Exercicios\Primos com 2 Thread\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula18\TP\PrimosThreads\Primos\bin\Debug\Primos.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula18\TP\PrimosThreads\Primos\bin\Debug\Primos.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula18\TP\PrimosThreads\Primos\obj\x86\Debug\Primos.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula18\TP\PrimosThreads\Primos\obj\x86\Debug\Primos.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula18\TP\PrimosThreads\Primos\obj\x86\Debug\Primos.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim02Aula18\TP\PrimosThreads\Primos\obj\x86\Debug\Primos.pdb
+G:\Asenjo\SegundoSemestre\SantaLinguagem\Bim02Aula18\PrimosThreads\Primos\bin\Debug\Primos.exe.config
+G:\Asenjo\SegundoSemestre\SantaLinguagem\Bim02Aula18\PrimosThreads\Primos\bin\Debug\Primos.exe
+G:\Asenjo\SegundoSemestre\SantaLinguagem\Bim02Aula18\PrimosThreads\Primos\bin\Debug\Primos.pdb
+G:\Asenjo\SegundoSemestre\SantaLinguagem\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.csproj.AssemblyReference.cache
+G:\Asenjo\SegundoSemestre\SantaLinguagem\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.csproj.SuggestedBindingRedirects.cache
+G:\Asenjo\SegundoSemestre\SantaLinguagem\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.csproj.CoreCompileInputs.cache
+G:\Asenjo\SegundoSemestre\SantaLinguagem\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.exe
+G:\Asenjo\SegundoSemestre\SantaLinguagem\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\unisanta\Downloads\Bim02Aula18\PrimosThreads\Primos\bin\Debug\Primos.exe.config
+C:\Users\unisanta\Downloads\Bim02Aula18\PrimosThreads\Primos\bin\Debug\Primos.exe
+C:\Users\unisanta\Downloads\Bim02Aula18\PrimosThreads\Primos\bin\Debug\Primos.pdb
+C:\Users\unisanta\Downloads\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Downloads\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.exe
+C:\Users\unisanta\Downloads\Bim02Aula18\PrimosThreads\Primos\obj\x86\Debug\Primos.pdb
